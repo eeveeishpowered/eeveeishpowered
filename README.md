@@ -1,7 +1,6 @@
-- 👋 hello
-- 👀 im currently interested in making mods for games
-- 🌱 not learning much stuff atm outside of school
-- 💞️ i don't really want to collaborate much
+i'm interested in video game modding and maybe some other things idk
+i don't like being called a furry because half of the furry community is just awful
+maybe i'll upload some of my mods here idk
 
 <!---
 eeveeishpowered/eeveeishpowered is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
